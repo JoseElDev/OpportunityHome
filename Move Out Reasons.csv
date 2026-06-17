@@ -1,0 +1,40 @@
+HouseholdMoveOutReason,HouseholdMoveOutCategory,HouseholdMoveOutCategoryDetail,When to Use,Resident Outcome,# Move Outs (all time)
+Invol Evicted - Criminal/Drug Activity 3 Day,Evicted,Criminal/Drug Activity 3 Day,"Evicted via 3-day NTV for serious violent or drug related criminal activity, activity that threatens health/safety of residents/employees or persons residing in the immediate vicinity of the premises, or criminal activity that resulted in a felony conviction ",Negative,596
+Invol Evicted - Housekeeping,Evicted,Housekeeping,Evicted for unresolved serious or ongoing housekeeping violations ,Negative,24
+Invol Evicted - Lease Non Compliance 30 Day,Evicted,Lease Non Compliance 30 Day,Evicted for general non-compliance with lease obligations that do not involve reasons noted in row 2 or non-payment of rent (non-compliance with tenant obligations or other debt accumulation),Negative,343
+Invol Evicted - Non Payment 30 Day,Evicted,Non Payment 30 Day,Evicted for non-payment of rent ,Negative,87
+Invol Evicted - Non Smoking Violation,Evicted,Non Smoking Violation,"Evicted due to the resident/HH members smoking in their unit, throughout the property common areas or within 25ft of the buildings (Attachment E of Lease Part II)",Negative,2
+ZInvol Evicted - Non Payment 14 Day (DO NOT USE),Evicted,Non Payment 14 Day (DO NOT USE),No longer in use due to HUD regs updating the timeframe for non-payment to 30 days ,Negative,901
+ZEntered in Wrong Unit*** DO NOT USE,Historical Category (Do Not Use),Entered in Wrong Unit (DO NOT USE),"Used when the wrong unit was processed and a correction needs to be made, no longer in use ",Neutral,2
+ZNotice Given Without Reason DO NOT USE,Historical Category (Do Not Use),Notice Given Without Reason (DO NOT USE),Intent to Vacate given but reason for move out not included ,Neutral,113
+ZSystem Adjustment DO NOT USE,Historical Category (Do Not Use),System Adjustment (DO NOT USE),"Used when an adjustment is needed, no longer in use",Neutral,1
+Invol Termination - CFK Program,Involuntary Termination,CFK Program,Cash for Keys program allowed residents to vacate their unit without formal eviction in exchange for a check issued by Opportunity Home ,Negative,37
+Invol Termination - Criminal/Drug Activity,Involuntary Termination,Criminal/Drug Activity,Terminated for criminal or drug related activity ,Negative,230
+Invol Termination - Housekeeping,Involuntary Termination,Housekeeping,Terminated for unresolved or serious housekeeping issues ,Negative,19
+Invol Termination - Lease Non Compliance,Involuntary Termination,Lease Non Compliance,Terminated for general non-compliance with lease obligations that do not involve reasons noted in row 2 or non-payment of rent (non-compliance with tenant obligations or other debt accumulation),Negative,194
+Invol Termination - Non Payment,Involuntary Termination,Non Payment,Terminated due to non-payment of rent ,Negative,206
+Invol Termination - Non Smoking,Involuntary Termination,Non Smoking,"Terminated due to the resident/HH members smoking in their unit, throughout the property common areas or within 25ft of the buildings (Attachemtn E orf Lease Part II)",Negative,3
+Vol TR-Emerg Threat,Transfer,Emerg Threat,Transfer due to HH member's life being threatened/VAWA,Neutral,1893
+Vol TR-Emerg Unit Condition,Transfer,Emerg Unit Condition,Transfer due to hazardous maintenance conditions in the unit ,Neutral,673
+Vol TR-Family Break-Up,Transfer,Family Break-Up,Transfer due to bifurcation of the lease or removal of household member,Neutral,11
+Vol TR-Incentive,Transfer,Incentive,Incentive transfer for residents interested in moving to a new or recently modernized unit ,Neutral,78
+Vol TR-Legacy @ Alazan Anti-Displacement,Transfer,Legacy @ Alazan Anti-Displacement,Incentive transfer for residents of Alazan-Apache Courts,Neutral,45
+Vol TR-Mod/Relocation,Transfer,Mod/Relocation,Transfer due to modernization of community/units that required transferring ,Neutral,557
+Vol TR-Need 504 Unit,Transfer,Need 504 Unit,The family transferred into a wheelchair accessible unit (usually for approved RA),Neutral,119
+Vol TR-Over/Under Housed,Transfer,Over/Under Housed,The transfer is due to occupancy transfer (family is in a too small or large unit for their size),Neutral,1071
+Vol TR-Reas Accom,Transfer,Reas Accom,The resident trasnferred due to an approved Reasonable Accomodation ,Neutral,1667
+Vol R-30 Day Notice Given w/o Reason,Voluntary Termination,30 Day Notice Given w/o Reason,The resident moved out with proper notice but did not indicate a reason ,Neutral,1070
+Vol R-Abandon/Skip-Out,Voluntary Termination,Abandon/Skip-Out,The resident abandoned the unit without notice ,Negative,2072
+Vol R-Assisted Living,Voluntary Termination,Assisted Living,The resident moved to assisted living (e.g. nursing home),Neutral,189
+Vol R-Deceased,Voluntary Termination,Deceased,The resident passed away ,Neutral,1642
+Vol R-Dissatisfied with Location,Voluntary Termination,Dissatisfied with Location,The resident moved out because they did not like the location of their community ,Negative,110
+Vol R-Legal/Mediation,Voluntary Termination,Legal/Mediation,,Neutral,37
+Vol R-Moved in with Family,Voluntary Termination,Moved in with Family,The resident moved out and went to live with family,Neutral,1524
+Vol R-Moved to Other Assisted Program,Voluntary Termination,Moved to Other Assisted Program,The resident moved out of Public Housing and moved into another form of affordable housing (e.g. AHC properties),Positive,207
+Vol R-Moved to Section 8,Voluntary Termination,Moved to Section 8,The resident moved out of Public Housing and recieved a voucher with Opportunity Home ,Positive,1528
+Vol R-Moved Without Notice,Voluntary Termination,Moved Without Notice,The resident moved out without submitting a notice of intent to vacate/notifying their property office ,Neutral,1069
+Vol R-ReHab,Voluntary Termination,ReHab,,Neutral,30
+Vol R-Rented Elsewhere,Voluntary Termination,Rented Elsewhere,Moved out and are renting at a different community ,Neutral,885
+Vol R-Self Sufficiency/Mkt Rent,Voluntary Termination,Self Sufficiency/Mkt Rent,"The resident moved out because they have acheived self sufficiency and no longer need subsidy (e.g. make too much income now, or graduated from the FSS program, etc.) ",Positive,24
+Vol R-Self Sufficiency/Purchased Home,Voluntary Termination,Self Sufficiency/Purchased Home,The resident moved out because they purchased a home or have achieved self sufficiency and no longer need subsidy ,Positive,112
+Vol R-To Nursing Home,Voluntary Termination,To Nursing Home,The resident moved in to a nursing home ,Neutral,275
